@@ -1,13 +1,9 @@
 ###  👋 Olá! Eu sou Cleison Mendes Paiva 💻
 
 
-
-**CleisonPaiva/CleisonPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Tranalho FULLSTACK com LARAVEL ...
-- 👯 Migrando para focar em BACKEND com LARAVEL ...
+- 🔭 Trabalhando FULLSTACK com LARAVEL ...
+- 🏁 Graduado em Sistemas de Informação
+- 📚 Pós Graduando em Engenharia de Software
 
 
 <div align="center">
