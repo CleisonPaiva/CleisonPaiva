@@ -1,7 +1,7 @@
 ###  👋 Olá! Eu sou Cleison Mendes Paiva 💻
 
 
-- 🔭 Trabalhando FULLSTACK com LARAVEL ...
+- 🔭 Trabalhando com LARAVEL ...
 - 🏁 Graduado em Sistemas de Informação
 - 📚 Pós Graduando em Engenharia de Software
 
@@ -24,8 +24,7 @@
   <img align="center" alt="Cleison-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Cleison-Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
   <img align="center" alt="Cleison-Storm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg">
-  <img align="center" alt="Cleison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Cleison-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 </div>
  
   ##
