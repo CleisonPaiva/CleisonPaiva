@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando com LARAVEL ...
 - 🏁 Graduado em Sistemas de Informação
-- 📚 Pós Graduando em Engenharia de Software
+- 📚 Pós Graduado em Engenharia de Software
 
 
 <div align="center">
